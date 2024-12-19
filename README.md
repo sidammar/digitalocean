@@ -14,3 +14,5 @@ Notes to be read by the reviewer/hiring manager.
 3. My primary focus as mentioned was on conveying technical information to the user with as simply as possible while reaching the desired outcome.
 
 4. Due to the time constraint of 3 Hours - I only did the install part and did not proceed further. I spend mt time on understanding the requirements, guidelines, drafting the copy, simplyfying it, adding all commands, formatting them and subsequently testing them on a DigitalOcean droplet. 
+
+The meta description is commented after title.
