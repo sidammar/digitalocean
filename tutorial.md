@@ -11,7 +11,7 @@ Learn how to install Docker on Ubuntu 22.04 step-by-step and start managing cont
 
 <!-- Introduction-->
 ### Introduction
-[Docker](https://www.docker.com/) is an platform that makes it easier and faster to build, share and run applications. Developers have been using it since 2013 since it enables an application to run on any computer on any operating system. Docker employs OS Level Virtualization in which the kernel enables the existence of multiple isolated instances. For more information, check out this blog on [OS Based Virtualization](https://www.geeksforgeeks.org/operating-system-based-virtualization/).
+[Docker](https://www.docker.com/) is a platform that makes it easier and faster to build, share and run applications. Developers have been using it since 2013 since it enables an application to run on any computer on any operating system. Docker employs OS Level Virtualization in which the kernel enables the existence of multiple isolated instances. For more information, check out this blog on [OS Based Virtualization](https://www.geeksforgeeks.org/operating-system-based-virtualization/).
 
 Docker does this by packaging all code files, configurations, dependencies and the runtime environment into one container. This process is called **Containerization** and if you're curious about Docker components, check out [The Docker Ecosystem: An Introduction to Common Components](https://www.digitalocean.com/community/tutorials/the-docker-ecosystem-an-introduction-to-common-components).
 
