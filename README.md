@@ -5,7 +5,7 @@ Hosted on GitHub Pages - https://sidammar.github.io/digitalocean/tutorial
 Best to click on the tutorial.md file and view it.
 
 
-Notes to be read by the reviewer.
+Notes to be read by the reviewer/hiring manager.
 
 1. I have understood the assignment and created a guide on the same. Please note that there was already a guide on the DigitalOcean platform but some of the commands were not working so I updated and modified some of them.
 
